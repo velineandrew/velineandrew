@@ -19,7 +19,7 @@
 ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white) 
 ![Adobe Illustrator](https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
 
-# 📊 GitHub Stats:
+## 📊 GitHub Stats:
 ![Andrew GitHub stats](https://github-readme-stats.vercel.app/api?username=velineandrew&show_icons=true&theme=radical)
 
 ## ✍️ Random Dev Quote
