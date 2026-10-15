@@ -1,7 +1,10 @@
-## Hello! Eu sou o Andrew ✋
+<div align="left">
+  <img src="https://source.boringavatars.com/beam/120/velineandrew?colors=fb573b,4f393c,8ea88d,9cd0ac,f4eb9e" alt="Boring Avatar - velineandrew" width="100" height="100" align="right" />
+  
+  ## Hello! Eu sou o Andrew ✋
+</div>
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white 
-)](https://www.linkedin.com/in/andrew-veline-37034397)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andrew-veline-37034397)
 
 ## 💻 Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
@@ -24,6 +27,4 @@
 ![Andrew GitHub stats](https://github-readme-stats.vercel.app/api?username=velineandrew&show_icons=true&theme=radical)
 
 ## ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
-
-<img src="https://source.boringavatars.com/beam/120/SEU-USER-DO-GITHUB?colors=264653,2a9d8f,e9c46a,f4a261,e76f51" alt="Avatar" width="120" height="120" style="border-radius: 50%;" />
+![](https://quotes-github-readme.vercel.app/api?type=vertical&theme=radical)
