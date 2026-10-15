@@ -25,3 +25,5 @@
 
 ## ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
+
+<img src="https://source.boringavatars.com/beam/120/SEU-USER-DO-GITHUB?colors=264653,2a9d8f,e9c46a,f4a261,e76f51" alt="Avatar" width="120" height="120" style="border-radius: 50%;" />
